@@ -1,3 +1,12 @@
+@media screen and (max-width: 320px) {
+  .about-heading-left {
+    height: 730px;
+    width: 420px;
+    background-color: #181628;
+    border-radius: 20px;
+    margin: 20px;
+  }
+}
 @media screen and (max-width: 480px) {
   .company-logo img {
     width: 130px;
@@ -69,7 +78,7 @@
 
   /* About Us CSS Start */
   .about-heading-left {
-    height: 580px;
+    height: 600px;
     width: 420px;
     background-color: #181628;
     border-radius: 20px;
